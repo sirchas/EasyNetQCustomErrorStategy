@@ -1,5 +1,5 @@
 # EasyNetQCustomErrorStategy
-Quick and easy way to leave messages in the queue on error.
+Quick and easy way to leave messages in the queue when there is an error.
 
 Register:
 
